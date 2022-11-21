@@ -1,3 +1,5 @@
+# Dockerfile with Tensorflow and Nvidia GPU support on WSL2
+
 This repository assumes you have **WSL2** and **Docker** installed, and that your computer has a working Nvidia GPU with all its drivers.
 
 To build and run in Docker, from terminal inside WSL2:
